@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Адлан Ибрагимов](https://up.htmlacademy.ru/javascript/25/user/158860).
-* Наставник: `Неизвестно`.
+* Наставник: [Владимир Коршунов](https://htmlacademy.ru/profilgit e/bekobou).
 
 ---
 
